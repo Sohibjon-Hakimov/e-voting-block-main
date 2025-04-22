@@ -198,12 +198,6 @@ https://ipfs.io/ipfs/{CID}
 
 ---
 
-## 🖼️ Screenshots
-
-&#x20;
-
----
-
 ## 🤝 Contribution
 
 Feel free to **fork**, **report issues**, or **submit pull requests** to improve this project. Contributions are welcome!
