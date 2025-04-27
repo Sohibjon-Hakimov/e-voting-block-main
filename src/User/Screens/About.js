@@ -32,7 +32,7 @@ export default function About() {
             validate the voter itself, after entering the ID number and
             successful age verification.
           </li>
-          <li>After enterning OTP user will get successfully registered.</li>
+          <li>After entering OTP user will get successfully registered.</li>
         </ul>
         <p>2. Voting process</p>
         <ul>
