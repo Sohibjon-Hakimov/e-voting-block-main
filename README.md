@@ -142,7 +142,9 @@ contract Evote {
 3. **View Results**: Admins can see live vote counts and manage states.
 
 ---
-
+## Admin password
+Login: admin        
+Parol: admin123
 ## 👥 Roles
 
 ### ✅ Admin
