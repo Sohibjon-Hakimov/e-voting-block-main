@@ -70,13 +70,19 @@ cd <project_folder>
 npm install
 ```
 
-### 3. Set up MetaMask:
+### 3. install Ganache:
+
+- Install Ganache and create workspace.
+- Change netwrok ID to 1337 and Port number 7574 from server.
+- Copy RPC server address and set up test network in MetaMask.
+
+### 4. Set up MetaMask:
 
 - Install the MetaMask extension in your browser.
 - Create a wallet or import an existing one.
 - Connect MetaMask to the Ethereum network (e.g. Rinkeby for development).
 
-### 4. Run the project:
+### 5. Run the project:
 
 ```bash
 npm start
@@ -84,7 +90,7 @@ npm start
 
 Frontend will be available at: [http://localhost:3000](http://localhost:3000)
 
-### 5. Interact with Ethereum:
+### 6. Interact with Ethereum:
 
 Once the application is running, log in as a **User** or **Admin** using MetaMask. The app interacts with the Ethereum blockchain for managing votes securely.
 
@@ -203,8 +209,4 @@ https://ipfs.io/ipfs/{CID}
 ## 🤝 Contribution
 
 Feel free to **fork**, **report issues**, or **submit pull requests** to improve this project. Contributions are welcome!
-
----
-
-## 🌐 #Blockchain Based Voting System
 
